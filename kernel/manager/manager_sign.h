@@ -13,6 +13,10 @@
 #define EXPECTED_SIZE_RSUNTK 0x396
 #define EXPECTED_HASH_RSUNTK "f415f4ed9435427e1fdf7f1fccd4dbc07b3d6b8751e4dbcec6f19671f427870b"
 
+// MamboSU/MamboSU
+#define EXPECTED_SIZE_MAMBO 0x384
+#define EXPECTED_HASH_MAMBO "a9462b8b98ea1ca7901b0cbdcebfaa35f0aa95e51b01d66e6b6d2c81b97746d8"                                          
+
 // SukiSU-Ultra/SukiSU-Ultra
 #define EXPECTED_SIZE_SUKISU 0x35c
 #define EXPECTED_HASH_SUKISU "947ae944f3de4ed4c21a7e4f7953ecf351bfa2b36239da37a34111ad29993eef"
